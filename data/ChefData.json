@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
+    "chef_name": "Khalid Saif",
+    "years_of_experience": 12,
+    "number_of_recipes": 78,
+    "likes": 2200,
+    "description": "Shireen Ahmed is a renowned Bangladeshi chef with over 12 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+          "chicken",
+          "onions",
+          "tomatoes",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. 2. Add onions, ginger, and garlic, and cook until onions are translucent. 3. Add chicken and cook until browned. 4. Add tomatoes and spices, and simmer for 30 minutes. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Fish Tacos",
+        "ingredients": [
+          "fish fillets",
+          "corn tortillas",
+          "cabbage",
+          "salsa",
+          "lime",
+          "cilantro"
+        ],
+        "cooking_method": "1. Season fish with salt and pepper. 2. Grill fish until cooked through. 3. Heat tortillas in a pan. 4. Assemble tacos with fish, cabbage, salsa, lime juice, and cilantro. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "flour",
+          "baking soda",
+          "salt",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Cream butter and sugar in a bowl. 3. Add flour, baking soda, and salt, and mix until dough forms. 4. Stir in chocolate chips. 5. Drop spoonfuls of dough onto a baking sheet. 6. Bake for 12-15 minutes, or until golden brown. Enjoy!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/chefs/nigella_lawson_16x9.jpg",
+    "chef_name": "Nasima Sharmin",
+    "years_of_experience": 8,
+    "number_of_recipes": 62,
+    "likes": 1700,
+    "description": "Munira Islam is a renowned Bangladeshi chef with over 8 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard oil",
+          "Mustard seeds",
+          "Green chillies",
+          "Turmeric",
+          "Salt"
+        ],
+        "cooking_method": "Marinate the fish in mustard paste, turmeric, salt, and green chillies for 15 minutes. Fry the fish in mustard oil until golden brown. In a separate pan, heat some more mustard oil and add mustard and green chillies.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bhapa Chingri",
+        "ingredients": [
+          "Prawns",
+          "Mustard paste",
+          "Coconut milk",
+          "Green chillies",
+          "Turmeric",
+          "Salt"
+        ],
+        "cooking_method": "Marinate the prawns in mustard paste, turmeric, salt, and green chillies for 15 minutes. Place them in a steamer with coconut milk and steam for 15-20 minutes. Serve hot with rice.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "flour",
+          "baking soda",
+          "salt",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Cream butter and sugar in a bowl. 3. Add flour, baking soda, and salt, and mix until dough forms. 4. Stir in chocolate chips. 5. Drop spoonfuls of dough onto a baking sheet. 6. Bake for 12-15 minutes, or until golden brown. Enjoy!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i2-prod.hinckleytimes.net/incoming/article10431998.ece/ALTERNATES/s1200d/JS75777567.jpg",
+    "chef_name": "Safiur Rahman",
+    "years_of_experience": 15,
+    "number_of_recipes": 225,
+    "likes": 7800,
+    "description": "Safiur Rahman is a renowned Bangladeshi chef with over 15 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+          "chicken",
+          "onions",
+          "tomatoes",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. 2. Add onions, ginger, and garlic, and cook until onions are translucent. 3. Add chicken and cook until browned. 4. Add tomatoes and spices, and simmer for 30 minutes. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chitol Macher Muitha",
+        "ingredients": [
+          "Chitol fish",
+          "Chickpea flour",
+          "Mustard oil",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Green chillies",
+          "Turmeric",
+          "Salt"
+        ],
+        "cooking_method": "Make a paste of chickpea flour, onions, garlic, ginger, green chillies, turmeric, and salt. Add the fish and make small balls. Boil them in water for 10-15 minutes. In a separate pan, heat some mustard oil and fry the balls until golden brown. Serve hot with tomato chutney.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chingri Bhapa",
+        "ingredients": [
+          "500g prawns, shelled and deveined",
+          "1 cup coconut milk",
+          "2 green chilies, finely chopped",
+          "1 teaspoon ginger paste",
+          "1 teaspoon garlic paste",
+          "1 teaspoon turmeric powder"
+        ],
+        "cooking_method": "Mix all the ingredients in a bowl and put it in a steamer. Steam for 20-25 minutes until the prawns are cooked. Serve hot with steamed rice.",
+
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/03/17/kishwar_masterchef_picture.jpg?itok=xgHG3NAR",
+    "chef_name": "Nasima Akhter",
+    "years_of_experience": 6,
+    "number_of_recipes": 43,
+    "likes": 1200,
+    "description": "Nasima Akhter is a renowned Bangladeshi chef with over 6 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Morog Polao",
+        "ingredients": [
+          "1 kg chicken, cut into pieces",
+          "2 cups basmati rice",
+          "2 cups chicken stock",
+          "2 onions, sliced",
+          "1 tablespoon ginger paste",
+          "1 tablespoon garlic paste"
+        ],
+        "cooking_method": "Heat oil in a pan and fry the onions until golden brown. Add the ginger and garlic paste and fry for a few seconds. Add the chicken and fry until lightly browned. Add the rice and fry for 2-3 minutes. Add the chicken stock and bring to a boil. Cover and cook on low heat until the rice and chicken are cooked. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Fish Tacos",
+        "ingredients": [
+          "fish fillets",
+          "corn tortillas",
+          "cabbage",
+          "salsa",
+          "lime",
+          "cilantro"
+        ],
+        "cooking_method": "1. Season fish with salt and pepper. 2. Grill fish until cooked through. 3. Heat tortillas in a pan. 4. Assemble tacos with fish, cabbage, salsa, lime juice, and cilantro. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Shobji Diye Beef Bhuna",
+        "ingredients": [
+          "500g beef, cut into small pieces",
+          "2 potatoes, peeled and cut into small cubes",
+          "1 cup mixed vegetables (carrots, beans, peas)",
+          "2 onions, sliced",
+          "2 tomatoes, chopped",
+          "1 tablespoon ginger paste",
+          "1 tablespoon garlic paste",
+          "1 teaspoon cumin powder"
+        ],
+        "cooking_method": "Heat oil in a pan and fry the onions until golden brown. Add the ginger and garlic paste and fry for a few seconds. Add the beef and fry until lightly browned. Add the potatoes and mixed vegetables and fry for 2-3 minutes. Add the spices and salt and fry for another 2-3 minutes. Add water and cover and cook on low heat until the beef is cooked and the gravy thickens. Serve hot with steamed rice.",
+
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
+    "chef_name": "Rukhsana Ahmed",
+    "years_of_experience": 18,
+    "number_of_recipes": 102,
+    "likes": 3200,
+    "description": "Rukhsana Ahmed is a renowned Bangladeshi chef with over 18 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+          "chicken",
+          "onions",
+          "tomatoes",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. 2. Add onions, ginger, and garlic, and cook until onions are translucent. 3. Add chicken and cook until browned. 4. Add tomatoes and spices, and simmer for 30 minutes. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Fish Tacos",
+        "ingredients": [
+          "fish fillets",
+          "corn tortillas",
+          "cabbage",
+          "salsa",
+          "lime",
+          "cilantro"
+        ],
+        "cooking_method": "1. Season fish with salt and pepper. 2. Grill fish until cooked through. 3. Heat tortillas in a pan. 4. Assemble tacos with fish, cabbage, salsa, lime juice, and cilantro. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "flour",
+          "baking soda",
+          "salt",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Cream butter and sugar in a bowl. 3. Add flour, baking soda, and salt, and mix until dough forms. 4. Stir in chocolate chips. 5. Drop spoonfuls of dough onto a baking sheet. 6. Bake for 12-15 minutes, or until golden brown. Enjoy!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/19cJJDg/chefwomen.jpg",
+    "chef_name": "Farida Akhter",
+    "years_of_experience": 15,
+    "number_of_recipes": 156,
+    "likes": 4600,
+    "description": "Rukhsana Ahmed is a renowned Bangladeshi chef with over 15 years of experience in the culinary world. Her specialty is traditional Bengali cuisine, and she has authored several cookbooks that have been highly acclaimed by food critics and enthusiasts alike.",
+    "recipes": [
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+          "chicken",
+          "onions",
+          "tomatoes",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. 2. Add onions, ginger, and garlic, and cook until onions are translucent. 3. Add chicken and cook until browned. 4. Add tomatoes and spices, and simmer for 30 minutes. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Fish Tacos",
+        "ingredients": [
+          "fish fillets",
+          "corn tortillas",
+          "cabbage",
+          "salsa",
+          "lime",
+          "cilantro"
+        ],
+        "cooking_method": "1. Season fish with salt and pepper. 2. Grill fish until cooked through. 3. Heat tortillas in a pan. 4. Assemble tacos with fish, cabbage, salsa, lime juice, and cilantro. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "flour",
+          "baking soda",
+          "salt",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Cream butter and sugar in a bowl. 3. Add flour, baking soda, and salt, and mix until dough forms. 4. Stir in chocolate chips. 5. Drop spoonfuls of dough onto a baking sheet. 6. Bake for 12-15 minutes, or until golden brown. Enjoy!",
+        "rating": 4.8
+      }
+    ]
+  }
+]
